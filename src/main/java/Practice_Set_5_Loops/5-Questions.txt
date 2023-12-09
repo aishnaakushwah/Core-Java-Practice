@@ -1,0 +1,17 @@
+
+PRACTICE SET 5: LOOPS - QUESTION BANK
+
+Q1. Write a program to print the following pattern : ****
+                                                     ***
+                                                     **
+                                                     *
+
+Q2. Write a program to sum first n even numbers using a while loop.
+
+Q3. Write a program to print the multiplication table of a given number n.
+
+Q4. Write a program to print a multiplication table of 10 in reverse order.
+
+Q5. Write a program to find the factorial of a given number using for loops. (Eg -> 5! = 5*4*3*2*1)
+
+Q6. Write a program to calculate the sum of the numbers occurring in the multiplication table of 8.

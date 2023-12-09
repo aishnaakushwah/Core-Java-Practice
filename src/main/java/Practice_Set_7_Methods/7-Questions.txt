@@ -1,0 +1,22 @@
+
+PRACTICE SET 7: METHODS - QUESTION BANK
+
+Q1. Write a Java method to print the multiplication table of a number n.
+
+Q2. Write a program using functions to print the following pattern:  *      and     ****
+                                                                     **             ***
+                                                                     ***            **
+                                                                     ****           *
+
+Q3. Write a program using recursion to print the following pattern:  *      and     ****
+                                                                     **             ***
+                                                                     ***            **
+                                                                     ****           *
+
+Q4. Write a recursive function to calculate the sum of first n natural numbers.
+
+Q5. Write a function to print the nth term of the Fibonacci series using recursion.
+
+Q6. Write a function to find the average of a set of numbers passed as arguments.
+
+Q7. Write a function to convert Celsius temperature into Fahrenheit.

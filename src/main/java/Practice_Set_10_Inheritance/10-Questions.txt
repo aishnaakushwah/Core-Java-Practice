@@ -1,0 +1,18 @@
+
+PRACTICE SET 10: INHERITANCE
+
+Q1. Create a class circle and use inheritance to create another class cylinder from it
+
+Q2. Create a class rectangle and use inheritance to create another class cuboid, try to keep it as close to the real-world
+    scenario as possible
+
+Q3. Create a method for area and volume in 1
+
+Q4. Create methods for area & volume in 2 also create getters and setters
+
+Q5. What is the order of constructor execution for the following inheritance hierarchy
+              Base
+              Derived 1
+              Derived 2
+    Derived obj = new Derived 2();
+    Which constructor(s) will be executed & in what order?

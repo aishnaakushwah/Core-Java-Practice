@@ -1,0 +1,15 @@
+
+PRACTICE SET 8: OOPS BASICS - QUESTION BANK
+
+Q1. Create a class Employee with the following properties and methods:
+         Salary (property) (int)
+         getSalary (method returning int)
+         name (property) (String)
+         getName (method returning String)
+         setName (method changing name)
+
+Q2. Create a class cellphone with methods to print “ringing…”, “vibrating…”, etc.
+
+Q3. Create a class Square, Rectangle and Circle with a method to initialize its side, calculating area, perimeter etc.
+
+Q4. Create a class TommyVecetti for Rockstar Games capable of hitting (print hitting…), running, firing, etc.

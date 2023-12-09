@@ -1,0 +1,9 @@
+
+PRACTICE SET 9: ACCESS MODIFIERS AND CONSTRUCTORS - QUESTION BANK
+
+Q1. Create a class for cube, cuboid, cylinder and sphere.
+    Create constructor for instance variables.
+    Create getter/setters.
+    Calculate surface area and volume.
+
+Q2. Overload a constructor used to initialize a rectangle of length 4 and breath 5 for using custom parameters.
